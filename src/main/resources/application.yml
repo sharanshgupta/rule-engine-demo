@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: ruleEngineDemo
+netty:
+  default:
+    allocator:
+      max-order: 3
+HDFC: 15000
